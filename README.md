@@ -32,10 +32,11 @@ Explicit, human-readable policy rules
 Priority Ladder:
 Human Safety > Human Rights
 Age-Stage Model:
-Child (0–12)
-Teen (13–19)
-Self-Selecting (18+)
-Mid Career, Senior Career
+- Child (0–12)  
+- Teen (13–19)  
+- Self-Selecting Early Career (18+)  
+- Mid Career  
+- Senior Career
 Transparent, versioned, jurisdiction-specific rule sets
 This ensures that policy cannot be influenced by ML outputs.
 
