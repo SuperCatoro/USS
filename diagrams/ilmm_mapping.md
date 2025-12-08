@@ -8,7 +8,7 @@ flowchart LR
 
         AG1["Child<br/>(0–12)"]
         AG2["Teen<br/>(13–19)"]
-        AG3["Self-Selecting Adult<br/>(18+)"]
+AG3["Self-Selecting Early Career<br/>(18+)"]
         AG4["Mid Career"]
         AG5["Senior Career"]
     end
