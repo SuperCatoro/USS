@@ -68,11 +68,9 @@ First under-18 Changemaker for UN Partnerships
 Leads classifier design, interpretability, and cost optimisation
 DTC UN Participation (selected):
 Invited to, participated in, and endorsed the UN Global Digital Compact
-WSIS+20 model introduction (carried forward by Dr. Vint Cerf)
-ECOSOC teen rights consultations
+WSIS+20 model development (carried forward by Dr. Vint Cerf)
 IGF advocacy on teen civil rights
 ITU Citiverse mentorship
-HLPF safeguarding and accountability interventions
 USS is grounded in real policy processes, not theory.
 
 
