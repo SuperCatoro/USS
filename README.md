@@ -13,11 +13,7 @@ Layer 1 → Validate (impact simulation measuring Dignity & Agency)
 
 This repository includes public technical documentation and the high-level model submitted to the 2025 MLAI Hackathon and aligned with the AISI voluntary guardrails.
 
-
-
 🧠 1. The Three-Layer Architecture
-
-
 
 Layer 3 — Diagnostic Engine (Fact API)
 
@@ -32,8 +28,6 @@ Produces Structured Facts via an interpretability model
 Fully reproducible: same input → same output
 
 This layer is optimized for auditability, speed, and economic scale, not leaderboard chasing.
-
-
 
 Layer 2 — Declarative Policy Engine
 
@@ -57,8 +51,6 @@ Transparent, versioned, jurisdiction-specific rule sets
 
 This ensures that policy cannot be influenced by ML outputs.
 
-
-
 Layer 1 — Impact Simulator
 
 A synthetic micro-Citiverse testbed that validates policy outcomes before deployment.
@@ -78,8 +70,6 @@ eSafety Commissioner duty-of-care expectations
 DSA Article 35 systemic-risk requirements
 
 UK OSA impact transparency
-
-
 
 🏛️ 2. Governance Lineage & UN Legitimacy
 
