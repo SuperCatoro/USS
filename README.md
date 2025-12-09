@@ -73,7 +73,13 @@ IGF advocacy on teen civil rights
 ITU Citiverse mentorship
 USS is grounded in real policy processes, not theory.
 
+About Stacy (Co-Founder & Governance Lead)
 
+Stacy is a WSIS Award recipient and former Director of Certification for LPI and Managing Director for the USENIX System Administration Certification Program. With three decades of experience in open systems, aerospace education, and digital governance—including work with the ITU leading into the original WSIS—she co-develops the ILMM and the Upstream Safety System (USS). Her background spans governance architecture, STEM education, environmental stewardship, and high-impact technical leadership.
+
+About Pyrate (Co-Founder & Technical/Governance Developer)
+
+Pyrate Ruby Passell is a multidisciplinary maker and governance technologist contributing to the USS and ILMM. She is a UN Foundation Changemaker Under 18, a Mentor for the UN’s First Citiverse Challenge (ITU), and a CERN Open Quantum Institute (OQI) Friend. Her work blends hands-on engineering—winning the 2018 Australian Youth Rocketry Challenge—with digital governance innovation, youth inclusion, and upstream safety development.
 
 
 Note: This repository is published for transparency and reference only.
