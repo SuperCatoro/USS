@@ -46,12 +46,24 @@ def create_fact(req: FactRequest):
 
     # Simple deterministic “bucket” so output changes predictably with input
     bucket = int(h[:2], 16) % 13
-    persona_vector = f"persona_{bucket:02d}"
+ # TRAINING STUB that already matches Option 2 output style
+labels = [f"persona_{i:02d}" for i in range(13)]
 
-    return StructuredFact(
-        persona_vector=persona_vector,
-        confidence_score=0.50,
-        flags=["training_stub"],
-        timestamp=datetime.now(timezone.utc).isoformat(),
-        deterministic_hash=h,
-    )
+primary = labels[bucket]
+# fake “passed labels”: always include primary, sometimes include a second one
+passed = [primary]
+if int(h[2:4], 16) % 4 == 0:
+    passed.append(labels[(bucket + 1) % 13])
+
+persona_vector = primary
+flags = passed
+confidence = 0.50
+
+
+ return StructuredFact(
+    persona_vector=persona_vector,
+    confidence_score=confidence,
+    flags=flags,
+    timestamp=datetime.now(timezone.utc).isoformat(),
+    deterministic_hash=h,
+)
