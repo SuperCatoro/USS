@@ -29,3 +29,12 @@ It does not apply policy, moderation, or enforcement.
 - Same input always produces the same output
 - No policy logic exists in this layer
 - Output is auditable and replayable
+
+
+## Run locally (training stub)
+
+From the repo root:
+
+```bash
+pip install -r layer3_diagnostic/requirements.txt
+uvicorn layer3_diagnostic.app.main:app --reload
