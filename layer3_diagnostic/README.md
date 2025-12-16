@@ -8,3 +8,24 @@ The Diagnostic Engine performs deterministic classification using a TF-IDF + Log
 - Fully reproducible: same input → same output.
 
 This layer provides the auditable factual basis for all policy decisions.
+
+## Fact API – v0.1 (Training Stub)
+
+This layer performs diagnostic classification only.
+It does not apply policy, moderation, or enforcement.
+
+### Input
+- raw_text: string
+- user_age_stage: enum (Child, Teen, Self-Selecting Early Career)
+
+### Output (Structured Fact)
+- persona_vector: one of 13 diagnostic categories
+- confidence_score: float (0–1)
+- flags: list of diagnostic markers
+- timestamp
+- deterministic_hash
+
+### Guarantees
+- Same input always produces the same output
+- No policy logic exists in this layer
+- Output is auditable and replayable
