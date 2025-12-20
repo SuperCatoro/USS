@@ -43,28 +43,25 @@ USS enforces a technical separation of powers to ensure governance remains **det
 
 Stacy brings **thirty years** of experience in designing safety-critical, auditable systems where intervention must be balanced with systemic restraint.
 
+* **Global Standards:** Served as Managing Director for **USENIX-SAGE IT Certification** and Director of Certification for the **Linux Professional Institute** and Cabletron Systems.
+* **Industrial Safety:** Developed the advanced electrical maintenance course for the **GE AC6000 diesel locomotive**, managing extreme technical complexity for heavy infrastructure.
+* **Precision Engineering:** Developed one of the first online training programs for **semiconductor tool manufacturing**, translating high-precision requirements into digital instructional systems.
+* **Safety Operations:** Led the **Formula 1 Grand Prix rocketry display** for the Australian Defence Force, and established multiple university rocketry teams' launch capabilities.
 * **Ecological Systems Design:** Proposed and developed the first **Permaculture Student Garden at the University of New Hampshire** with the Dean of Agriculture. This model successfully scaled into a regional wave of university programs across New England.
 * **Environmental Stewardship:** Certified **Master Naturalist** and **Watershed Steward**; led ecological governance and sustainable development projects with the **Hopi and Navajo Nations** through the Grand Canyon Trust.
-* **Industrial Safety:** Developed advanced electrical maintenance training for the **GE AC6000 diesel locomotive** platform, managing extreme technical complexity for heavy infrastructure.
-* **Precision Engineering:** Developed the first online training program for **semiconductor tool manufacturing**, translating high-precision requirements into digital instructional systems.
-* **Global Standards:** Served as Managing Director for **USENIX-SAGE IT Certification** and Non-Profit Business Development Director for the **Linux Professional Institute**.
-* **Safety Operations:** Led the **Formula 1 Grand Prix rocketry display** for the Australian Defence Force.
 * **Sovereign Governance:** Recipient of the **World Summit on the Information Society (WSIS) Award**.
-
-### **Pyrate Ruby Passell — Implementation Lead**
-*Governance Technologist & Systems Developer*
-
+  
 ### **Pyrate Ruby Passell — Implementation Lead**
 *Governance Technologist & Systems Developer*
 
 Pyrate is an internationally recognised pioneer in youth-led digital governance and systems design.
 
 * **UN Leadership (DTC):** Co-Founder and Co-Chair of the **Dynamic Teen Coalition (DTC)**, the only ongoing Teen Board at the United Nations. Invited to, contributed to, and finally endorsed the **UN Global Digital Compact (GDC)**.
-* **Historic Advocacy:** Initiated teen-inclusion advocacy through successful sit-ins at the UN; lead researcher on the first qualitative study of ageism in global policy.
-* **Technical Implementation:** Lead developer of the USS deterministic layers, translating complex policy into auditable technical architecture.
-* **Infrastructure for Access:** Built and managed the two original **DTC community servers** before developing the specific coordination server utilized by **ITU mentors** for team access during global digital participation.
+* **Technical Validation:** Lead developer of the USS deterministic layers; conducted the primary black box testing, validating the system's deterministic outputs against high-risk interaction data to ensure zero-drift in governance decisions.
+* **Infrastructure for Access:** Built and managed the first Discord servers at the UN, the two original **DTC community servers** before developing the specific coordination server utilized by **ITU mentors** for team access during global digital participation.
 * **CERN & ITU:** Friend of the Open Quantum Institute at **CERN** and Technical Mentor for the **ITU’s first UN Citiverse Challenge**.
 * **Global Policy Partnership:** Named the **UN Foundation’s first under-18 Changemaker for UN Partnerships** and leader in the Engine Room of **Our Future Agenda**.
+* * **Historic Advocacy:** Initiated direct, diplomatic teen interventions at the UN; lead researcher on the first qualitative study of ageism in global policy.
 
 ---
 
