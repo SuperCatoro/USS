@@ -8,7 +8,9 @@ While traditional systems focus on reactive moderation (downstream), USS operate
 ---
 
 ## 🏛️ Strategic Framing: Decision Defensibility
-Organizations do not pay for observability; they pay for **decision defensibility**. USS provides the structural evidence required to navigate high-risk trajectories and reduce hindsight blame.
+Organizations do not pay for observability; they pay for **decision defensibility**. USS provides the structural evidence required to navigate high-risk trajectories and reduce hindsight blame. 
+
+> **Strategic Synthesis:** USS is **Decision Defensibility Infrastructure.** It makes both action and restraint equally explainable, preventing governance by panic or paralysis.
 
 ### **The Diagnostic Mapping (Value Rationale)**
 
@@ -61,7 +63,7 @@ Pyrate is an internationally recognised pioneer in youth-led digital governance 
 * **Infrastructure for Access:** Built and managed the first Discord servers at the UN, the two original **DTC community servers** before developing the specific coordination server utilized by **ITU mentors** for team access during global digital participation.
 * **CERN & ITU:** Friend of the Open Quantum Institute at **CERN** and Technical Mentor for the **ITU’s first UN Citiverse Challenge**.
 * **Global Policy Partnership:** Named the **UN Foundation’s first under-18 Changemaker for UN Partnerships** and leader in the Engine Room of **Our Future Agenda**.
-* * **Historic Advocacy:** Initiated direct, diplomatic teen interventions at the UN; lead researcher on the first qualitative study of ageism in global policy.
+* **Historic Advocacy:** Initiated direct, diplomatic teen interventions at the UN; lead researcher on the first qualitative study of ageism in global policy.
 
 ---
 
