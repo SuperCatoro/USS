@@ -1,3 +1,9 @@
+This repository hosts a public demonstration of the Upstream Safety System (USS): a deterministic, auditable AI governance architecture designed to help regulators, platforms, and safety teams understand how policy can be enforced upstream—before harm occurs.
+
+The demo is intentionally simple, transparent, and non-enforcement. It exists to show structure, not to moderate live systems.
+
+Hackathon demonstration video (coming soon)
+
 🚀 The Upstream Safety System (USS)
 Deterministic, Auditable AI Safety Architecture
 
@@ -80,6 +86,15 @@ Stacy is a WSIS Award recipient and former Director of Certification for LPI and
 About Pyrate (Co-Founder & Technical/Governance Developer)
 
 Pyrate Ruby Passell is a multidisciplinary maker and governance technologist contributing to the USS and ILMM. She is a UN Foundation Changemaker Under 18, a Mentor for the UN’s First Citiverse Challenge (ITU), and a CERN Open Quantum Institute (OQI) Friend. Her work blends hands-on engineering—winning the 2018 Australian Youth Rocketry Challenge—with digital governance innovation, youth inclusion, and upstream safety development.
+
+
+Status
+
+Public demo utility
+
+Non-binding, non-enforcement
+
+Pricing, pilots, and certifications forthcoming
 
 
 Note: This repository is published for transparency and reference only.
