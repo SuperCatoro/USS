@@ -66,8 +66,21 @@ Pyrate is an internationally recognised pioneer in youth-led digital governance 
 
 ---
 
+---
+
 ## 🏛️ Governance Lineage
-The USS is the product of a **thirty-year generational governance lineage**. This includes the **Inclusive Lifelong Multistakeholder Model (ILMM)**, developed and piloted over three years to correct the systemic erasure of teens in international governance.
+The USS is the product of a **thirty-year generational governance lineage**. This includes the **Inclusive Lifelong Multistakeholder Model (ILMM)**, which was developed in real-world circumstances and piloted over three years to correct the systemic erasure of teens in international governance. 
+
+The ILMM defines and embeds **legal and ethical supports** for all stages, ensuring that rights, safeguarding, and accountability are integral to the governance architecture from the outset.
+
+**ILMM Developmental Brackets:**
+* **Children:** 0–12
+* **Teens:** 13–19
+* **Early Career:** 18+
+* **Mid Career:** Professionals (Vision & Execution)
+* **Senior Career:** Guardians of Institutional Memory
+
+---
 
 ---
 **Note:** This repository is published for transparency and reference only. External contributions are not accepted.
