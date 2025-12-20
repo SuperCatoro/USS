@@ -54,17 +54,17 @@ Stacy brings **thirty years** of experience in designing safety-critical, audita
 ### **Pyrate Ruby Passell — Implementation Lead**
 *Governance Technologist & Systems Developer*
 
+### **Pyrate Ruby Passell — Implementation Lead**
+*Governance Technologist & Systems Developer*
+
 Pyrate is an internationally recognised pioneer in youth-led digital governance and systems design.
 
-* **Technical Implementation:** Lead developer of the USS deterministic layers, translating complex policy into auditable technical architecture.
-* **Infrastructure for Inclusion:** Co-developed the **Discord-based Digital Governance Forum** and built protocols used by the **ITU** to translate "access" into actual participation.
-* **CERN & ITU:** Friend of the Open Quantum Institute at **CERN** and Technical Mentor for the **ITU’s first UN Citiverse Challenge**.
-* **Historic Advocacy:** Initiated teen-inclusion advocacy through successful sit-ins at the UN; lead researcher on the first qualitative study of ageism in global policy.
-* **Technical Excellence:** Winner of the **Australian Youth Rocketry Challenge** and multidisciplinary innovator in mechatronics and human-centric systems.
 * **UN Leadership (DTC):** Co-Founder and Co-Chair of the **Dynamic Teen Coalition (DTC)**, the only ongoing Teen Board at the United Nations. Invited to, contributed to, and finally endorsed the **UN Global Digital Compact (GDC)**.
+* **Historic Advocacy:** Initiated teen-inclusion advocacy through successful sit-ins at the UN; lead researcher on the first qualitative study of ageism in global policy.
+* **Technical Implementation:** Lead developer of the USS deterministic layers, translating complex policy into auditable technical architecture.
+* **Infrastructure for Access:** Built and managed the two original **DTC community servers** before developing the specific coordination server utilized by **ITU mentors** for team access during global digital participation.
+* **CERN & ITU:** Friend of the Open Quantum Institute at **CERN** and Technical Mentor for the **ITU’s first UN Citiverse Challenge**.
 * **Global Policy Partnership:** Named the **UN Foundation’s first under-18 Changemaker for UN Partnerships** and leader in the Engine Room of **Our Future Agenda**.
-
----
 
 ---
 
