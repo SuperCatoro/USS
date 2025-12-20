@@ -8,14 +8,14 @@ While traditional systems focus on reactive moderation (downstream), USS operate
 ---
 
 ## 🏛️ Strategic Framing: Decision Defensibility
-Organizations do not pay for observability; they pay for **decision defensibility**. USS provides the structural evidence required to navigate high-risk trajectories and reduce hindsight blame. 
+Organisations do not pay for observability; they pay for **decision defensibility**. USS provides the structural evidence required to navigate high-risk trajectories and reduce hindsight bias. 
 
 > **Strategic Synthesis:** USS is **Decision Defensibility Infrastructure.** It makes both action and restraint equally explainable, preventing governance by panic or paralysis.
 
 ### **The Diagnostic Mapping (Value Rationale)**
 
 * **Map 1: Age-Conditioned Trajectory Escalation**
-    Most harm emerges through repetition and age-specific vulnerability. USS models how interaction patterns accelerate toward harm over time, allowing organizations to justify **when** action becomes proportionate.
+    Most harm emerges through repetition and age-specific vulnerability. USS models how interaction patterns accelerate toward harm over time, allowing organisations to justify **when** action becomes proportionate.
 * **Map 2: Repetition & Normalisation Drift**
     Once unsafe dynamics are normalised, corrective action becomes disruptive. USS identifies the early normalisation of boundary-crossing behaviour, allowing for intervention **upstream of norm collapse.**
 * **Map 3: Power Asymmetry Amplification**
@@ -32,7 +32,7 @@ Organizations do not pay for observability; they pay for **decision defensibilit
 ## 🧠 The "Double-Lock" Architecture
 USS enforces a technical separation of powers to ensure governance remains **deterministic and auditable.**
 
-* **Layer 3 → Diagnose:** Classification and structured fact-pattern recognition. Optimized for reproducibility—same input always produces the same output.
+* **Layer 3 → Diagnose:** Classification and structured fact-pattern recognition. Optimised for reproducibility—same input always produces the same output.
 * **Layer 2 → Decide:** Datalog-based deterministic policy rules. Separates governance logic from classification "drift."
 * **Layer 1 → Validate:** Synthetic micro-Citiverse testbed that validates outcomes against **Dignity** (harm prevention) and **Agency** (autonomy).
 
@@ -60,7 +60,7 @@ Pyrate is an internationally recognised pioneer in youth-led digital governance 
 
 * **UN Leadership (DTC):** Co-Founder and Co-Chair of the **Dynamic Teen Coalition (DTC)**, the only ongoing Teen Board at the United Nations. Invited to, contributed to, and finally endorsed the **UN Global Digital Compact (GDC)**.
 * **Technical Validation:** Lead developer of the USS deterministic layers; conducted the primary black box testing, validating the system's deterministic outputs against high-risk interaction data to ensure zero-drift in governance decisions.
-* **Infrastructure for Access:** Built and managed the first Discord servers at the UN, the two original **DTC community servers** before developing the specific coordination server utilized by **ITU mentors** for team access during global digital participation.
+* **Infrastructure for Access:** Built and managed the first Discord servers at the UN, the two original **DTC community servers** before developing the specific coordination server utilised by **ITU mentors** for team access during global digital participation.
 * **CERN & ITU:** Friend of the Open Quantum Institute at **CERN** and Technical Mentor for the **ITU’s first UN Citiverse Challenge**.
 * **Global Policy Partnership:** Named the **UN Foundation’s first under-18 Changemaker for UN Partnerships** and leader in the Engine Room of **Our Future Agenda**.
 * **Historic Advocacy:** Initiated direct, diplomatic teen interventions at the UN; lead researcher on the first qualitative study of ageism in global policy.
