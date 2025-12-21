@@ -46,6 +46,7 @@ USS enforces a technical separation of powers to ensure governance remains **det
 Stacy brings **thirty years** of experience in designing safety-critical, auditable systems where intervention must be balanced with systemic restraint.
 
 * **Global Standards:** Served as Managing Director for **USENIX-SAGE IT Certification** and Director of Certification for the **Linux Professional Institute** and Cabletron Systems.
+* **Finance-Sector Systems Training:** Served as Training Director for complex finance-sector IT environments, delivering senior-level technical training and systems troubleshooting for institutional clients.
 * **Industrial Safety:** Developed the advanced electrical maintenance course for the **GE AC6000 diesel locomotive**, managing extreme technical complexity for heavy infrastructure.
 * **Precision Engineering:** Developed one of the first online training programs for **semiconductor tool manufacturing**, translating high-precision requirements into digital instructional systems.
 * **Safety Operations:** Led the **Formula 1 Grand Prix rocketry display** for the Australian Defence Force, and established multiple university rocketry teams' launch capabilities.
