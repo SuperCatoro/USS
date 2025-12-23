@@ -123,14 +123,23 @@ Stacy was engaged as the instructional systems engineer for the AC6000 diesel en
 
 Her educational and outreach work includes founding Melbourne Combat Robotics, serving as Vice President of the Melbourne Amateur Rocket Society, and running the F1 Grand Prix rocketry display. These roles emphasized hands-on systems understanding and public technical literacy. Stacy is a Master Naturalist and Watershed Steward (University of Arizona) and initiated climate and governance work with the Hopi and Navajo Nations in collaboration with the Grand Canyon Trust. She is a 2003 World Summit on the Information Society (WSIS) Award recipient and serves as Co-Chair of the Dynamic Teen Coalition (DTC). She is the architect of the Inclusive Lifelong Multistakeholder Model (ILMM) and co-creator of the Upstream Safety System (USS), which is a deterministic, auditable governance architecture designed to embed safety, dignity, agency, and accountability upstream, before harm occurs.
 
-### PYRATE RUBY PASSELL
+### Pyrate Ruby Passell
 
-Pyrate Ruby Passell is a governance systems builder whose work focuses on designing, operating, and safeguarding live multistakeholder digital infrastructure in contexts where age, power, and technical asymmetry create real risk. She pioneered the first formal teen governance board at the United Nations, establishing a functioning governance structure for meaningful teenage participation in global digital policy and technology discussions.
+**Co-originator of the Upstream Safety System (USS)**, responsible for developing, implementing, and black-box testing all technical components of the USS demo, including the full deterministic architecture, Python codebase, API surfaces, and validation logic, translating the governance structure developed by Stacy Gildenston into a working, auditable system.
 
-Pyrate designed, built, and operated governance-sensitive digital infrastructure for the ITU Citiverse Challenge. Her proposal was accepted and she served as both system builder and mentor, supporting participating university students in navigating technical collaboration, governance constraints, and institutional processes. During this period, staff from the United Nations Foundation and its Our Future Agenda engaged directly with and observed the governance structures developed through the Dynamic Teen Coalition. Elements of this structure were later replicated by the UN Foundation for their own use, and Pyrate was subsequently invited to join the organization as its First Under-18 Changemaker for UN Partnerships.
+**Co-designer of the Inclusive Lifelong Multistakeholder Model (ILMM)**, contributing to the articulation and practical testing of a lifespan-based governance framework that enables age-aware participation without surveillance, moderation, or automation, and that underpins the USS architecture.
 
-At age 14, Pyrate participated in and formally endorsed the United Nations Global Digital Compact (GDC). She is recognized as a Friend of the CERN Open Quantum Institute (OQI), reflecting early engagement with frontier research communities and global technology governance. Within the Upstream Safety System (USS), Pyrate leads the implementation and operationalization of training and demonstration architectures. She emphasizes clarity of interfaces, determinism, auditability, and governance legibility for non-expert users. Her work consistently bridges technical execution and governance intent, ensuring that safety, dignity, and agency are enforced as system properties rather than aspirational principles.
+**As Co-Chair of the Dynamic Teen Coalition**, invited to participate in and endorsed through the UN Global Digital Compact process as a formal teen-led team, contributing to consultations and discussions on emerging technologies, inclusion, and governance design.
 
+**Selected as a mentor through the International Telecommunication Union** for the UN’s first Cityverse Challenge, supporting university teams working at the intersection of virtual worlds, governance, and emerging technology.
+
+**Recognised by the UN Foundation** as its first Changemaker under the age of 18, in acknowledgement of her contributions to digital governance and participation.
+
+**Recognised as a Friend of the Open Quantum Institute at CERN**, for contributions to discussions and workstreams at the intersection of quantum technologies, governance, and the Global Digital Compact.
+
+**Built and operated the first digital governance Discord servers used at the United Nations**, establishing the operational governance model for the Dynamic Teen Coalition in 2023–2024, extending that framework to the ITU Cityverse Challenge in 2025, and shaping the collaboration architecture later adopted within the UN Foundation’s Our Future Agenda.
+
+**Her work sits at the boundary where governance theory becomes executable system design**, turning principles like dignity, agency, and human authority into architectures that can be built, tested, and defended under real-world conditions.
 ## Contact
 
 Dynamic Teen Coalition  
