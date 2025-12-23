@@ -1,7 +1,7 @@
 # The Upstream Safety System (USS)
 ## Governance Infrastructure for the Full Arc of Human Experience
 
-The world keeps demanding human intervention in AI systems. But it keeps implementing that intervention wrong. The Upstream Safety System (USS) is governance infrastructure designed to fix that structural error.
+The world keeps demanding human intervention in AI systems and repeatedly implements that intervention incorrectly.
 
 USS is not a policy framework, an ethical guideline, or an advisory model layered onto existing systems. USS is a deterministic, auditable architecture designed to structurally enforce human authority over AI-mediated decision-making. This occurs upstream of harm, upstream of automation creep, and upstream of accountability failure.
 
