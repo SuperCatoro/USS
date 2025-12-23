@@ -77,26 +77,28 @@ Governance must be legible to the people responsible for it. The Dashboard is th
 Accountability cannot rely on memory, trust, or narrative. The Black Box records every structured fact, every rule applied, and every decision taken. This is done deterministically and immutably. It does not exist to surveil or to automate punishment, but to make governance real.
 
 ## Human Authority Across Time
-### The Inclusive Lifelong Multistakeholder Model (ILMM)
+## The Inclusive Lifelong Multistakeholder Model (ILMM)
 
-The Inclusive Lifelong Multistakeholder Model (ILMM) defines how human authority is distributed, transferred, and preserved across a lifetime within USS governance infrastructure. It prevents participation from resetting, disappearing, or losing legitimacy as people age, roles change, or institutions evolve.
+The **Inclusive Lifelong Multistakeholder Model (ILMM)** is a structural intervention designed to solve the fundamental failure of modern governance: the exclusion of those closest to the consequences of systemic decisions. By organizing participation across five life stages, the ILMM replaces hierarchy with a model of **role, responsibility, and longitudinal continuity.**
 
-ILMM organizes participation across five life stages. These are organized not by hierarchy, but by role, responsibility, and reciprocal learning.
+The ILMM ensures that governance is powered by the **IP-1 engine** and directed by **IP-2 persistence**, creating a system where authority is informed by lived experience across the full human arc while remaining safeguarded against automation drift and adult gatekeeping.
 
-**Children (0–12)**  
-Children engage through safe, creative participation zones. Trained facilitators translate insights into governance discussions without losing authenticity. Contributions are recorded longitudinally so perspectives evolve as they grow.
+---
 
-**Teens (13–19)**  
-This is the formal gateway into governance as full digital actors. Teens co-create projects, propose policy, and deliberate as equals in moderated, safeguarded environments. They mentor younger participants while learning from professionals.
+### 1. Children (0–12): Longitudinal Governance Memory
+Children are not burdened with the labor of deliberation, but they are essential to the system’s integrity. Their role is to provide safeguarded, dignity-preserving signals that form a **longitudinal evidentiary record.** By capturing early-life impacts through protected mechanisms, the ILMM ensures that governance systems cannot "erase" harm or defer accountability. This stage creates the **baseline of truth** that informs all future policy.
 
-**Early Career (18+)**  
-Participants consolidate governance literacy and strategic skills. They facilitate for teens, serve as rapporteurs, and shape agendas. This stage produces confident leaders who understand both technical and relational governance.
+### 2. Teens (13–19): Entry as Digital Actors
+Represented by the **Dynamic Teen Coalition (DTC)**, this stage marks the formal entry into governance as **full digital actors.** Teens participate directly in deliberation, co-creation, and policy formation. By engaging as legitimate stakeholders rather than symbolic consultees, they exercise real influence over emerging technologies. This stage is the primary defense against **structural silence** and **adult gatekeeping.**
 
-**Mid Career**  
-These are operators at the intersection of vision and execution. They set priorities, resolve conflicts, broker collaborations, and steward institutional culture as the model scales.
+### 3. Early Career (18+): Consolidation and Facilitation
+Early career participants act as the bridge between raw insight and institutional execution. They serve as facilitators and rapporteurs, translating between technical systems and **youth-led governance outputs.** This stage focuses on building **durable governance capability**, ensuring that participants are prepared to hold authority responsibly as they transition through the IP-2 framework.
 
-**Senior Career**  
-These participants are guardians of institutional memory and ethical oversight. They anchor innovation in context, ensuring continuity without stifling new approaches.
+### 4. Mid Career: Operational Stewardship
+Mid-career participants operate at the intersection of vision and execution. They are responsible for operational accountability—stewarding the **AdTech → Code-for-Good inversion** and ensuring that governance processes scale without losing their human-centric foundation. Their role is the brokerage of collaboration and the resolution of complex institutional trade-offs.
+
+### 5. Senior Career: Institutional Memory and Guardianship
+Senior participants provide long-horizon oversight and guardianship of the model’s core principles. They resist short-term market incentives and automation drift, ensuring the system remains aligned with human dignity across generations. Their authority is not based on control, but on **anchoring continuity** and preserving the longitudinal memory established in the earliest stages of the human arc.
 
 ## What Has Been Achieved
 
