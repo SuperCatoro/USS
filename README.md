@@ -130,10 +130,9 @@ At age 14, Pyrate participated in and formally endorsed the United Nations Globa
 ## Contact
 
 Dynamic Teen Coalition  
-Email: dynamicteencoalition@gmail.com  
-Web: dynamicteencoalition.org  
+Email: [dynamicteencoalition@gmail.com](dynamicteencoalition@gmail.com)
+Web: [dynamicteencoalition.org](dynamicteencoalition.org)
 
 USS is developed by Pyrate's Cove Productions in partnership with the Dynamic Teen Coalition.
 
-Watch: The USS Architectural Intervention (under three minutes)  
-https://youtube.com/shorts/lF06bL2iHoU?si=kKH0rfb_VfEe3zLC
+Watch: [The USS Architectural Intervention](https://youtube.com/shorts/lF06bL2iHoU?si=kKH0rfb_VfEe3zLC) (under three minutes)  
