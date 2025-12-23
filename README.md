@@ -62,9 +62,11 @@ USS does not decide what the message means or what should happen next. It ensure
 
 The same mechanism applies regardless of age, role, or domain. USS exists to preserve human signals at the point where systems are most likely to distort or erase them.
 
-## Two Surfaces. One Principle.
+To make human authority real in practice, USS separates proof from deliberation. This requires two distinct system surfaces that serve a single governing principle.
 
-Governance requires both deliberation and proof.
+## Proof Before Deliberation
+
+Governance requires both proof and deliberation.
 
 ### The Dashboard: Human Authority Made Visible
 
@@ -135,4 +137,4 @@ Web: [dynamicteencoalition.org](dynamicteencoalition.org)
 
 USS is developed by Pyrate's Cove Productions in partnership with the Dynamic Teen Coalition.
 
-Watch: [The USS Architectural Intervention](https://youtube.com/shorts/lF06bL2iHoU?si=kKH0rfb_VfEe3zLC) (under three minutes)  
+Watch: [The USS Architectural Intervention](https://youtube.com/shorts/lF06bL2iHoU?si=kKH0rfb_VfEe3zLC) (under three minutes)
