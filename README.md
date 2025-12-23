@@ -115,13 +115,21 @@ This is not a proposal. It is a working governance architecture.
 
 ## The Team
 
-### STACY GILDENSTON
+### Stacy Gildenston
 
-Stacy Gildenston is a systems architect and governance practitioner with three decades of experience designing, teaching, and standardizing complex technical systems in contexts where downstream failure carries technical, social, ecological, or intergenerational consequences. Her work spans industrial and instructional systems engineering, semiconductor and network infrastructure training, professional certification and standards development, aerospace and robotics education, ecological governance, and global digital policy. Across these domains, she focuses on making complex, safety-critical systems legible, auditable, and governable at scale.
+**Stacy Gildenston is a systems architect and governance practitioner** with three decades of experience designing, teaching, and standardising complex technical systems in contexts where downstream failure carries technical, social, ecological, or intergenerational consequences. Her work spans industrial and instructional systems engineering, semiconductor and network infrastructure training, professional certification and standards development, aerospace and robotics education, ecological governance, and global digital policy.
 
-Stacy was engaged as the instructional systems engineer for the AC6000 diesel engine advanced electrical maintenance course, translating safety-critical industrial systems into structured, auditable instructional architecture. She later designed and developed the first online training portal for semiconductor equipment manufacturer Semitool, converting precision manufacturing processes into scalable technical learning infrastructure. She led company-wide technical training on contract for Greenwich Tech Partners, which is a New York based technology firm serving finance-sector clients. She served as Director of Certification for the Linux Professional Institute (LPI), SAGE/USENIX, and Cabletron Systems, overseeing competency frameworks, assessment integrity, and professional standards.
+**Engaged as the instructional systems engineer for the AC6000 diesel engine** advanced electrical maintenance course, translating safety-critical industrial systems into structured, auditable instructional architecture. She later designed and developed the first online training portal for semiconductor equipment manufacturer **Semitool**, and led company-wide technical training on contract for **Greenwich Tech Partners**, a New York–based firm serving finance-sector clients during that period.
 
-Her educational and outreach work includes founding Melbourne Combat Robotics, serving as Vice President of the Melbourne Amateur Rocket Society, and running the F1 Grand Prix rocketry display. These roles emphasized hands-on systems understanding and public technical literacy. Stacy is a Master Naturalist and Watershed Steward (University of Arizona) and initiated climate and governance work with the Hopi and Navajo Nations in collaboration with the Grand Canyon Trust. She is a 2003 World Summit on the Information Society (WSIS) Award recipient and serves as Co-Chair of the Dynamic Teen Coalition (DTC). She is the architect of the Inclusive Lifelong Multistakeholder Model (ILMM) and co-creator of the Upstream Safety System (USS), which is a deterministic, auditable governance architecture designed to embed safety, dignity, agency, and accountability upstream, before harm occurs.
+**Served as Director of Certification for Linux Professional Institute, SAGE / USENIX, and Cabletron Systems**, overseeing competency frameworks, assessment integrity, and professional standards in high-stakes technical environments.
+
+**Her educational and aerospace work** includes founding Melbourne Combat Robotics, initiating and supporting multiple university-level rocketry teams, serving as Vice President of the Melbourne Amateur Rocket Society, and running the F1 Grand Prix rocketry display for the Australian Defence Force. This work emphasised hands-on systems understanding, aerospace literacy, and public engagement with complex technical domains.
+
+**A Master Naturalist and Watershed Steward** through the University of Arizona, she initiated climate and governance work with the Hopi and Navajo Nations in collaboration with the Grand Canyon Trust. She is a 2003 World Summit on the Information Society Award recipient and serves as **Co-Chair of the Dynamic Teen Coalition**.
+
+**Architect of the Inclusive Lifelong Multistakeholder Model (ILMM) and co-creator of the Upstream Safety System (USS)**, a deterministic, auditable governance architecture designed to embed safety, dignity, agency, and accountability upstream—before harm occurs.
+
+**Her work focuses on making safety-critical systems legible, auditable, and governable at scale**, turning principles into architectures that can be built, tested, and defended under real-world conditions.
 
 ### Pyrate Ruby Passell
 
